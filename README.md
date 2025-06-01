@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elgendy</h1>
-<h3 align="center">Passionate Front-End Web Developer dedicated to crafting exceptional, high-performance web interfaces using modern technologies including HTML, CSS, JavaScript, and React.js. Experienced in developing intuitive and visually engaging single-page applications, seamlessly integrating APIs, and championing UI/UX best practices for optimal accessibility and cross-device performance. Eager to contribute to innovative teams that prioritize clean design and cutting-edge solutions.</h3>
+<h3">Passionate Front-End Web Developer dedicated to crafting exceptional, high-performance web interfaces using modern technologies including HTML, CSS, JavaScript, and React.js. Experienced in developing intuitive and visually engaging single-page applications, seamlessly integrating APIs, and championing UI/UX best practices for optimal accessibility and cross-device performance. Eager to contribute to innovative teams that prioritize clean design and cutting-edge solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gendyvip&label=Profile%20views&color=0e75b6&style=flat" alt="gendyvip" /> </p>
 
