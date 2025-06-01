@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elgendy</h1>
-<h3 align="center">Front-End Developer passionate about creating high-quality web experiences. I hold a Bachelor's degree in Electronics Engineering with a Computer Science specialization from Menoufia University. I have hands-on experience in building responsive and interactive websites using HTML5, CSS3, JavaScript, React.js, and Angular. I’m eager to contribute to innovative teams by delivering modern, efficient front-end solutions that enhance user experience and align with business goals.</h3>
+<h3 align="center">Passionate Front-End Web Developer dedicated to crafting exceptional, high-performance web interfaces using modern technologies including HTML, CSS, JavaScript, and React.js. Experienced in developing intuitive and visually engaging single-page applications, seamlessly integrating APIs, and championing UI/UX best practices for optimal accessibility and cross-device performance. Eager to contribute to innovative teams that prioritize clean design and cutting-edge solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gendyvip&label=Profile%20views&color=0e75b6&style=flat" alt="gendyvip" /> </p>
 
