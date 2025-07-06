@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TolabTest](https://github.com/exam-system-angluar-node-js)
+- 🔭 I’m currently working on [Dawaback](https://github.com/iti-graduation-project-medix)
 
 - 🌱 I’m currently learning **MEARN**
 
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gendyvip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gendyvip" height="30" width="40" /></a>
-<a href="https://instagram.com/gendyvip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gendyvip" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
