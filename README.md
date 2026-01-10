@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Dawaback](https://github.com/iti-graduation-project-medix)
-
-- 🌱 I’m currently learning **MEARN**
-
-- 💬 Ask me about **React, Next**
-
 - 📫 How to reach me **mohamed20elgendy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
