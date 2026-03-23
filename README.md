@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elgendy</h1>
-<h3">Frontend-Focused Full Stack Developer with 1 years of hands-on experience specializing in React JS and Next JS. Passionate about building high-performance, user-centric applications with clean and scalable architecture. Skilled in implementing advanced features such as server-side rendering (SSR), static site generation (SSG), and state management using Redux/Zustand. Delivered multiple full-featured, responsive web applications in Agile/Scrum environments, collaborating closely with cross-functional teams to ensure timely and efficient delivery. Strong focus on performance, accessibility, and writing maintainable code that enhances the overall user experience.</h3>
+<h3">Full Stack Software Engineer with 2 years of experience building scalable web applications using Angular, Node.js, React, and modern web technologies. Experienced in delivering end-to-end features in Agile environments. Skilled in building reliable systems, writing clean code, and solving complex engineering challenges.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelgendy24&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelgendy24" /> </p>
 
